@@ -1,0 +1,30 @@
+body{
+    background-color: #222222 !important;
+}
+
+.bg{
+    background-size: cover;
+    background-image: url('../img/1.jpg');
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.align-center{
+    text-align: center;
+}
+
+.jumbotron-caption{
+    color: #ffffff !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+.footer{
+    color: #ffffff !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    font-size: .9em;
+
+
+}
